@@ -4,20 +4,20 @@
 
 ## Key Features
 
-- Comprehensive Analysis:
+**- Comprehensive Analysis:**
 
     -Processes data to handle missing values, encode categorical features, and scale numeric features.
     -Includes Exploratory Data Analysis (EDA) to uncover patterns and correlations.
   
--Machine Learning Models:
+**-Machine Learning Models:**
 
-   -Implements multiple models such as Linear Regression, Random Forest, and Support Vector Regressors.
-   -Evaluates models using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared.
+     -Implements multiple models such as Linear Regression, Random Forest, and Support Vector Regressors.
+     -Evaluates models using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared.
    
--Actionable Insights:
+**-Actionable Insights:**
 
-   -Highlights critical factors driving employee burnout.
-   -Supports decision-making to reduce burnout and improve workplace satisfaction.
+     -Highlights critical factors driving employee burnout.
+     -Supports decision-making to reduce burnout and improve workplace satisfaction.
 
 ## Technologies Used
 -Python
@@ -31,6 +31,20 @@
 Python 3.7 or later.
 A modern data processing tool (Jupyter Notebook).
 ### Installation
-Clone the Repository:
-  ```bash
-   git clone https://github.com/gagan8605/Techsaksham_Implementation-of-ML-model-for-image-classification.git```
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/gagan8605/Techsaksham_Implementation-of-ML-model-for-image-classification.git
+  
+2. **Set Up a Virtual Environment:**:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+3. **Install the required packages**:
+    ```bash
+    pip install -r requirements.txt
+### Acknowledgements
+
+-Kaggle for providing the dataset.
+-Scikit-learn, Matplotlib, and Seaborn for powerful analysis and visualization tools.
+-Hands-On Machine Learning by Géron for guidance on model building and evaluation.
+
