@@ -33,7 +33,7 @@ A modern data processing tool (Jupyter Notebook).
 ### Installation
 Clone the Repository:
   ```bash
-   git clone https://github.com/gagan8605/Techsaksham_Implementation-of-ML-model-for-image-classification.git
+   git clone https://github.com/gagan8605/Techsaksham_Implementation-of-ML-model-for-image-classification.git```
    cd Implementation-of-ML-model-for-image-classification
 Set Up a Virtual Environment:
   - python -m venv venv
@@ -45,7 +45,7 @@ Install Required Libraries:
 Run the Jupyter Notebook:
   -Open the ProjectEBA.ipynb file in Jupyter Notebook and execute the analysis.
 
-## Acknowledgements
+ Acknowledgements
    -Kaggle for providing the dataset.
    -Scikit-learn, Matplotlib, and Seaborn for powerful analysis and visualization tools.
    -Hands-On Machine Learning by Géron for guidance on model building and evaluation.
